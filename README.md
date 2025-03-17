@@ -21,6 +21,9 @@
 ###
 ![image](https://github.com/user-attachments/assets/e5c0e18a-8771-4da5-bd94-a2cbf2930f6d)
 
+<p align="left">Link - https://app.powerbi.com/groups/me/dashboards/e7ed492e-acd8-4c1b-8485-13d80ff0b257?ctid=8775661c-d343-4930-a990-8a3360e2ca1f&pbi_source=linkShare</p>
+
+###
 <h2 align="left">📌 Conclusion</h2>
 
 <p align="left">The analysis highlights key trends in sales, profitability, customer behavior, and regional performance, revealing valuable insights into business performance across various sectors. While Technology and Office Supplies drive strong profits, excessive discounts on Furniture negatively impact margins. The West region leads in performance, while some states struggle due to high discounting strategies. Optimizing pricing, refining discount strategies, and focusing on high-performing product segments can improve overall profitability.</p>
