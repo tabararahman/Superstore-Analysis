@@ -1,4 +1,4 @@
-<h1 align="left">Superstore Analysis</h1>
+<h1 align="left">Superstore Analysis in Power BI</h1>
 
 ###
 <h2 align="left">📊 Overview of Sample Superstore Dashboard</h1>
